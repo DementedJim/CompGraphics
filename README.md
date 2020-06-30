@@ -3,7 +3,11 @@
 
 [Справка о прохождении дисциплины в МГТУ](https://yadi.sk/a/T3b57JmN6oP6yQ)
 
-### Работы по OpenGL
+## Сертификаты ИНТУИТ
+
+
+
+### Работы с OpenGL
 [Лабораторная работа 1](https://github.com/DementedJim/CompGraphics/tree/master/OpenGL/01)
 
 [Лабораторная работа 2](https://github.com/DementedJim/CompGraphics/tree/master/OpenGL/02)
@@ -71,3 +75,4 @@
 [Лабораторная работа 39](https://github.com/DementedJim/CompGraphics/tree/master/OpenGL/39)
 
 [Лабораторная работа 46](https://github.com/DementedJim/CompGraphics/tree/master/OpenGL/46)
+
